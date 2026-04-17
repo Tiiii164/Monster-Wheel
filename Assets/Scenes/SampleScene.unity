@@ -448,7 +448,7 @@ MonoBehaviour:
   - {fileID: 1896555155}
   - {fileID: 46022006}
   startInterval: 0.05
-  slowdownStep: 0.02
+  slowdownStep: 0.1
   maxInterval: 0.1
 --- !u!1 &74463293
 GameObject:
